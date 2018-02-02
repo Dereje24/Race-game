@@ -1,0 +1,83 @@
+header{
+	
+}
+#bugatti{
+	text-transform: uppercase;
+	color: black;
+	text-align: left;
+	font-size: 24px;
+	font-weight: 300;
+}
+#audi{
+	text-transform: uppercase;
+	color: black;
+	text-align: right;
+	font-size: 24px;
+	font-weight: 300;
+}
+.instructions{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+
+}
+header button{
+	background-color: green;
+	color: white;
+	border: 3px solid blue;
+	border-radius: 50%;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-align: center;
+	font-size: 45px;
+	font-weight: 800;
+	display: block;
+	margin: 0 auto;
+	height: 200px;
+	width: 200px;
+}
+#raceBox{
+	background-color: #d9d9d9;
+	width: 1400px;
+	height: 450px;
+}
+
+.redBox{
+	background-color: red;
+	height: 170px;
+	width: 170px;
+	margin: 10px 10px;
+	position: relative;
+	left: 0px;
+	padding-bottom: 20px;
+}
+.blueBox{
+
+	height: 170px;
+	width: 170px;
+	margin: 10px 10px;
+	position: relative;
+	left: 0px;
+	padding-top: 20px;
+}
+.
+#redGo{
+	text-align: center;
+	color: white;
+	font-size: 80px;
+	
+}
+#blueGo{
+	text-align: center;
+	color: white;
+	font-size: 80px;
+}
+#firstCar{
+	height: 200px;
+	width: 200px;
+	padding-bottom: 10px;
+}
+#secondCar{
+	height: 200px;
+	width: 200px;
+}
